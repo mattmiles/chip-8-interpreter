@@ -38,6 +38,17 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "stack": "cpp",
+        "chrono": "cpp",
+        "bit": "cpp",
+        "ctime": "cpp",
+        "map": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "ratio": "cpp",
+        "thread": "cpp"
     }
 }
